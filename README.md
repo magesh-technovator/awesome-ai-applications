@@ -1,12 +1,10 @@
 # awesome-ai
 ## A Comprehensive survey on business use cases of AI that help them thrive in the digital economy
-*This was orginally published on Medium, using this space to constantly update use cases
+###### This was orginally published on Medium, using this space to constantly update use cases
 
 With the evolution of Artificial Intelligence(AI), there's been a lot of potential business use cases which not only automates and optimize businesses process but also benefits end-users in terms of better engagement experience, personalized recommendations and so on.
 Here we're going to look into each industry(the majority of industries) and see how AI is impacting businesses at scale.
 source
-
-![AI](https://github.com/MageshDominator/awesome-ai/blob/main/cio_rpa_robot_automation.png)
 
 ### Topics:
 * [AI: The Big Picture](https://github.com/MageshDominator/awesome-ai#ai-the-bigpicture)
@@ -20,14 +18,18 @@ Artificial Intelligence and Data Science are multi-disciplinary and are a wide f
 
 As mentioned earlier, Data science and AI are too broad, and to achieve the expectations of AI i.e "giving machines the ability to learn and perform specific tasks on their own" we have Machine Learning which is a subset of AI.
 
-![Disciplines](https://github.com/MageshDominator/awesome-ai/blob/main/AIvsDSvsML.png)
+<p align="center">
+  <img src="https://github.com/MageshDominator/awesome-ai/blob/main/AIvsDSvsML.png" />
+</p>
 
-Machine learning needs 3 major components to achieve its goal:
-* Data: This is the most important part of any AI pipeline and it can be anything like Quantitative, Categorical, Text, Image, Audio 
+**Machine learning needs 3 major components to achieve its goal:**
+* Data: This is the most important part of any AI pipeline and it can be anything like Quantitative, Categorical, Text, Image, Audio 
 * Features: Features are important pieces of data that help us in solving the task at hand
 * Algorithms: Algorithms are specific mathematical models that learn patterns from the features thereby developing the ability to generalize to the problem at hand.
 
-![MLvsDL](https://github.com/MageshDominator/awesome-ai/blob/main/MLvsDL.png)
+<p align="center">
+  <img src="https://github.com/MageshDominator/awesome-ai/blob/main/MLvsDL.png" />
+</p>
 
 Deep Learning is a subset of Machine learning which is inspired by the neural structure and functioning of the brain. Deep learning uses complex multi-layered neural networks to learn feature representations automatically and proven to be more successful for Unstructured data like Image, Text, Audio.
 
