@@ -1,17 +1,18 @@
 # awesome-ai
 ## A Comprehensive survey on business use cases of AI that help them thrive in the digital economy
+*This was orginally published on Medium, using this space to constantly update use cases
 
 With the evolution of Artificial Intelligence(AI), there's been a lot of potential business use cases which not only automates and optimize businesses process but also benefits end-users in terms of better engagement experience, personalized recommendations and so on.
 Here we're going to look into each industry(the majority of industries) and see how AI is impacting businesses at scale.
 source
 
-[AI](https://github.com/MageshDominator/awesome-ai/blob/main/cio_rpa_robot_automation.png)
+![AI](https://github.com/MageshDominator/awesome-ai/blob/main/cio_rpa_robot_automation.png)
 
 ### Topics:
 * [AI: The Big Picture](https://github.com/MageshDominator/awesome-ai#ai-the-bigpicture)
 * [General use cases of AI: Business Agnostic AI](https://github.com/MageshDominator/awesome-ai#general-use-cases-of-ai-business-agnosticai)
 * [AI-First Companies](https://github.com/MageshDominator/awesome-ai#ai-first-companies)
-* [Deep dive into industry-specific AI]
+* [Deep dive into industry-specific AI](https://github.com/MageshDominator/awesome-ai#deep-dive-into-industry-specific-ai)
 
 
 ### AI: The Big Picture
@@ -19,14 +20,14 @@ Artificial Intelligence and Data Science are multi-disciplinary and are a wide f
 
 As mentioned earlier, Data science and AI are too broad, and to achieve the expectations of AI i.e "giving machines the ability to learn and perform specific tasks on their own" we have Machine Learning which is a subset of AI.
 
-[Disciplines](https://github.com/MageshDominator/awesome-ai/blob/main/AIvsDSvsML.png)
+![Disciplines](https://github.com/MageshDominator/awesome-ai/blob/main/AIvsDSvsML.png)
 
 Machine learning needs 3 major components to achieve its goal:
 * Data: This is the most important part of any AI pipeline and it can be anything like Quantitative, Categorical, Text, Image, Audio 
 * Features: Features are important pieces of data that help us in solving the task at hand
 * Algorithms: Algorithms are specific mathematical models that learn patterns from the features thereby developing the ability to generalize to the problem at hand.
 
-[MLvsDL](https://github.com/MageshDominator/awesome-ai/blob/main/MLvsDL.png)
+![MLvsDL](https://github.com/MageshDominator/awesome-ai/blob/main/MLvsDL.png)
 
 Deep Learning is a subset of Machine learning which is inspired by the neural structure and functioning of the brain. Deep learning uses complex multi-layered neural networks to learn feature representations automatically and proven to be more successful for Unstructured data like Image, Text, Audio.
 
@@ -53,6 +54,7 @@ With a huge amount of data and the evolution of AI algorithms, AI is impacting e
 There are companies that advance on the use of AI and are focused on data collection, predictive modeling, and getting quantitative feedbacks from users. And not to mention most of the AI world depends and operates based on open-source research, data, algorithms from these companies.
 
 ***Companies that own most of the user's data and having better prediction models will dominate the industry and win the digital economy.***
+
 Here are some companies that have declared themselves are AI-first and actually are(most companies/startups use AI-first as a buzzword - beware of them 😐),
 
 * Google(Alphabet): They not only have good company merger and acquisition strategy, but they also have the world's best data acquisition strategy. With their search engine, chrome, android, youtube, maps, email, photos, they've live feed of data from every individual(maybe not in China😝). And, Google is one of the companies to invest early in AI Research and made a lot of breakthroughs in AI Software and Hardware. Now they're selling great Enterprise AI products/solutions with their Google Cloud Platform
@@ -64,6 +66,22 @@ The above companies are not the only AI-first companies, I have used them becaus
 
 ### Deep dive into industry-specific AI
 Let's dive into each industry and see how AI facilitate them and impact their business process and customers. I have listed the majority of industries and they're in alphabetical order so that you can easily find the industry you're most interested in.
+* [Automotive](https://github.com/MageshDominator/awesome-ai#automotive-industry)
+* [B2B Sales and Marketing](https://github.com/MageshDominator/awesome-ai#b2b-sales-and-marketing)
+* [Consumer Marketing](https://github.com/MageshDominator/awesome-ai#consumer-marketing)
+* [Digital Commerce](https://github.com/MageshDominator/awesome-ai#digital-commerce)
+* [E-learning, Learning, and Development](https://github.com/MageshDominator/awesome-ai#e-learning-learning-and-development)
+* [Engineering and IT](https://github.com/MageshDominator/awesome-ai#engineering-andit)
+* [Finance & Operations](https://github.com/MageshDominator/awesome-ai#finance--operations)
+* [Healthcare](https://github.com/MageshDominator/awesome-ai#healthcare)
+* [Human Resources and Recruiting](https://github.com/MageshDominator/awesome-ai#human-resources-and-recruiting)
+* [Industrial and Manufacturing](https://github.com/MageshDominator/awesome-ai#industrial-and-manufacturing)
+* [Legal and Compliance](https://github.com/MageshDominator/awesome-ai#legal-and-compliance)
+* [Logistics and Supply chain](https://github.com/MageshDominator/awesome-ai#logistics-and-supplychain)
+* [Online Security and Risk](https://github.com/MageshDominator/awesome-ai#online-security-andrisk)
+* [Productivity](https://github.com/MageshDominator/awesome-ai#productivity)
+* [Sports](https://github.com/MageshDominator/awesome-ai#sports)
+* [Telecom](https://github.com/MageshDominator/awesome-ai#telecom)
 
 ***The intention of this article is not to list every possible use cases in each industry instead, I'll focus on highlighting the top business use cases of AI and give some insights on how businesses are leveraging AI and leave it to you to explore more business problems that can benefit with AI***
 
@@ -198,11 +216,5 @@ Hope I have covered the majority of business use cases of AI and will continue t
 * Business intelligence
 * Data Science, and AI tools as a service: Analytics and AutoML tools
 * AI service providers: Service-based companies that are mainly focused on Analytics and AI business use cases.
-
-To Summarize, we have explored,
-* Big picture of AI 👽
-* Business agnostic use cases of AI that are transforming every business
-* AI-first companies that are impacting the day-to-day lives of every individual
-* Business-specific use cases of AI and how it helps businesses move from survival to thriving in the new economy.
 
 Happy Learning…!
