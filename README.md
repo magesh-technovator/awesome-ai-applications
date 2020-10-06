@@ -1,6 +1,6 @@
-# awesome-ai
+# awesome-ai-applications
 ## A Comprehensive survey on business use cases of AI that help them thrive in the digital economy
-###### This was orginally published on Medium, using this space to constantly update use cases
+###### This was orginally published on [Medium](https://medium.com/technovators/how-businesses-use-ai-to-thrive-in-the-new-economy-f6e7ae326aa7), using this space to constantly update use cases
 
 With the evolution of Artificial Intelligence(AI), there's been a lot of potential business use cases which not only automates and optimize businesses process but also benefits end-users in terms of better engagement experience, personalized recommendations and so on.
 Here we're going to look into each industry(the majority of industries) and see how AI is impacting businesses at scale.
