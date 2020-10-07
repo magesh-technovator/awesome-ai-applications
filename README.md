@@ -45,11 +45,11 @@ Based on the nature and complexity of data and problems, various AI tasks and te
 * Classification and Regression problems involving Categorical and Quantitative data which are usually tackled with Feature Engineering and task-specific algorithms
 
 ### General use cases of AI: Business Agnostic AI
-With a huge amount of data and the evolution of AI algorithms, AI is impacting each and every business, here are some common use cases of AI that can be applied to typically any business,
+With a huge amount of data and the evolution of AI algorithms, AI is impacting each and every business. Here are some common use cases of AI that can be applied to typically any business,
 * **Conversational AI:** This includes chatbots(typically text-based), voice assistants, and voice + text assistants. This is now everywhere from mobile phones (voice/virtual assistants) to customer service
-* **Recommendation engines:** From Social media to e-commerce, e-learning, recommendation engines are very popular and are personalized and targeted towards end-users
+* **Recommendation engines:** From Social media to e-commerce, and e-learning, recommendation engines are very popular and are personalized and targeted towards end-users
 * **Risk Assessment and Fraud Detection:** Most businesses use AI models to predict future trends, detect risk and fraud, and fraud prevention
-* **Search Optimization:** AI-powered semantic search engines are everywhere and are personalized
+* **Search Optimization:** AI-powered semantic search engines brings about an enhanced understanding of user(searcher) intent, the ability to extract answers, and delivers more personalized results
 * **Mobile Applications:** Every smartphone comes with in-built AI features like smart camera applications like image enhancement, gender and age identification, 3D facial recognition, smart intelligent assistants, typing suggestions like auto-correct, next-word suggestions. And most of the businesses are building AI-enabled applications to optimize the user experience.
 
 ### AI-First Companies
@@ -57,11 +57,11 @@ There are companies that advance on the use of AI and are focused on data collec
 
 ***Companies that own most of the user's data and having better prediction models will dominate the industry and win the digital economy.***
 
-Here are some companies that have declared themselves are AI-first and actually are(most companies/startups use AI-first as a buzzword - beware of them 😐),
+Here are some companies that have declared themselves as AI-first and actually are(most companies/startups use AI-first as a buzzword - beware of them 😐),
 
 * **Google(Alphabet):** They not only have good company merger and acquisition strategy, but they also have the world's best data acquisition strategy. With their search engine, chrome, android, youtube, maps, email, photos, they've live feed of data from every individual(maybe not in China😝). And, Google is one of the companies to invest early in AI Research and made a lot of breakthroughs in AI Software and Hardware. Now they're selling great Enterprise AI products/solutions with their Google Cloud Platform
 * **Amazon:** Amazon is not just an e-commerce company anymore, they're into Cloud Computing, Live streaming, AI products, Robotics, and so on. They also have great data and company acquisition strategies. They have great recommendation engines, ai assistant, cloud ai products/services, and robotics products
-* **Facebook:** Most controversial company in terms of privacy, and manipulation, they not only own WhatsApp and Instagram, but they also own crucial data of users from their platforms. Facebook AI (FAIR) has made great contributions to the open-source AI community
+* **Facebook:** Most controversial company in terms of privacy, and manipulation. They not only own platforms like WhatsApp and Instagram, but they also own crucial data of users from their platforms. Facebook AI (FAIR) has made great contributions to the open-source AI community
 * **Microsoft:** They own Linkedin, Skype, Github, Microsoft office suite which are great sources of data, and Microsoft being a great player in the Enterprise Cloud Computing Platform has done a lot of breakthroughs in AI and now providing Enterprise AI solutions at scale.
 
 The above companies are not the only AI-first companies, I have used them because they're more popular and easy to convey their data acquisition and modeling strategies. There are other companies that are also AI-first and popular like Tesla, Uber, Netflix, Alibaba, etc..
@@ -123,7 +123,7 @@ We've already seen about b2b marketing, while the use cases are almost similar t
 #### Digital Commerce
 Digital commerce has changed the way we buy and sell and they're the earliest sector to use AI-powered analytics to improve their businesses at scale. Recommendation engine, personalized user experience, and Virtual assistants are such use cases, but there are several other potential AI applications empowering digital commerce,
 * **Search:** Image-based similarity search and NLP based semantic search are crucial parts of digital commerce
-* **Fraud Detection:** Analyzes the potential risk of each transaction to detect chances of frauds like bulk transactions from stolen cards, multiple transactions in a short amount of time, transactions from unusual locations
+* **Fraud Detection:** Analyzes the potential risk of each transaction to detect chances of frauds, and anomalies like bulk transactions from stolen cards, multiple transactions in a short amount of time, transactions from unusual locations
 * **Sales and CRM Analytics:** Identifying customer segments, targeted advertising, Customer retention
 * Integrating products with everyday-use household items helps in better analytics
 
@@ -137,7 +137,7 @@ E-learning has great advantages over traditional learning and with the use of AI
 #### Engineering and IT
 Still, most of the businesses use AI as a tool to facilitate their business process, Software engineering is no different. 
 * **CI/CD Optimization and Log Analytics:** AI-driven analytics help companies gain more insights about usages in production, improve software systems to scale, and reduce fail-overs
-* **Agile analytics and process-automation:** Agile methodology more popular and powerful, it requires a lot of chunking and analytics. Using AI to automates the process and help teams focus on deliverables. Example: Good amount of time is spent in Jira/other tools for process-management, using AI to suggest and auto-label tasks, to add fix versions, link confluence, and feature branches to stories
+* **Agile analytics and process-automation:** Agile methodology requires a lot of chunking(division of tasks), and analytics for prioritizing and faster delivery. Using AI to automates the process and help teams focus on deliverables. Example: Good amount of time is spent in Jira/other tools for process-management, using AI to suggest and auto-label tasks, to add fix versions, link confluence, and feature branches to stories
 * **Quality Assurance:** Automated functionality testing and integration testing is widely used and generates a lot of reports, using AI-driven analytics help businesses reduce the testing burden and time to production
 * **AI-powered IDEs:** Use of AI for code auto-completion, code-optimization, suggestions on coding standards(naming conventions, better use of OOPs concepts) makes code development faster and easier
 * Software teams develop AI-based internal tools that facilitate software development, testing. I myself have developed and used a few. If you're a software developer look around you, there will be plenty of boring stuff that can be automated and increases the productivity of your entire team.
@@ -168,7 +168,7 @@ This industry involves a lot of record-keeping, conversational analytics, and tr
 * **Content Writing:** AI helps professionals improve the writing of e-mails and other content because emotional feedbacks matter here.
 
 #### Industrial and Manufacturing
-Automation with sensors and actuator has transformed manufacturing industries for a long time and now with the help of advanced analytics and AI-driven automation, the manufacturing process is getting simpler and solves complex business problems
+Automation with sensors and actuators has transformed manufacturing industries for a long time and now with the help of advanced analytics and AI-driven automation, the manufacturing process is getting simpler and solves complex business problems
 * **Digital Twin:** Virtual Representation of factories and products help in managing the performance, effectiveness, and quality of manufacturing assets
 * Smart manufacturing with IoT
 * **Predictive maintenance:** Device/Asset Diagnostics help business reduce unexpected down-time
@@ -193,14 +193,14 @@ AI is helpful in end-to-end processes of Supply chain management and helps busin
 #### Online Security and Risk
 From the workforce, commerce to healthcare, everything is now online. While there're enormous benefits it comes with security risks of privacy/data breach. The use of AI to detect, prevent security risks is more essential now.
 * **Remote workforce cyber-security:** Most crucial elements of the business are now operated by remote workforce, recently twitter accounts of Bill Gates, Elon musk was hacked by targeted attacks on twitter employees. The use of AI models does not completely avoid risks but minimizes the chances 
-* **Cloud Security:** Every business now relies on Cloud solutions either pubic or private to serve their customers, use of better AI models to fight against cyber-attacks not only protects their data, but it also protects customer trust and brand health
+* **Cloud Security:** Every business now relies on Cloud solutions either public or private to serve their customers, use of better AI models to fight against cyber-attacks not only protects their data, but it also protects customer trust and brand health
 * **Mobile security:** Everything now become portable like smartphones, laptop, tablets, securing these devices and the networks they're connected to is one of the most important things to protect end-users and customer trust.
 
 #### Productivity
-Productivity tools not just help individuals but also provides organizational benefits and help use resources effectively work, collaborate
+Productivity tools provide many organizational benefits. These tools help individuals to work and collaborate effectively.
 * **For Teams/Enterprises:** Analyze and work towards Key Performance Indicators, organizational goals
-* **Meeting Scheduling:** One of the irritating things to do is to communicate with multiple members to align the meeting schedule and block calendars, there are a bunch of startups of working on using AI to automate this process just by having a virtual assistant in an email cc and it takes care of the rest. Helpful for Sales teams, Recruiters, Internal teams, Consultants, and so on
-* **Presentation:** AI reduces the tedious process of executives from creating interactive dashboards to generating slides for a presentation
+* **Meeting Scheduling:** Communicating with multiple members to align the meeting schedule and block calendars seems annoying and unproductive. There are a bunch of startups of working on using AI to automate this process just by having a virtual assistant in an email cc and it takes care of the rest. Tools like this are helpful for Sales teams, Recruiters, Internal teams, Consultants, and so on
+* **Presentation:** AI reduces the tedious process of executives by facilitating them on tasks ranging from creating interactive dashboards to generating slides for a presentation
 * **Improve meetings:** Transcription and Meeting notes generation, text, and in-audio search, file-sharing are some examples of AI use cases that improve meetings.
 
 #### Sports
@@ -210,11 +210,11 @@ Given the advancement in technology, the use of AI in sports has more importance
 * **Entertainment:** Creating automatic highlights of games, better commentary & storytelling, optimizing advertising opportunities, personalized playlists in OTT platforms.
 
 #### Telecom
-Telecom industry requires a lot of network monitoring, traffic management, and cybersecurity which can benefit from AI and there are some generic use cases like customer services, workflow automation.
+Telecom industry requires huge efforts on network monitoring, traffic management, and cybersecurity, these areas can be benefited from AI-driven analytics. And, there are some generic use cases like customer services, workflow automation.
 * **Network optimization:** Optimizing network quality by continuously monitoring traffic based on region, time zone enables them to predict and detect anomalies and fix issues proactively using network scaling, Intelligent bandwidth on-demand
 * **Predictive Maintenance:** Monitoring assets to anticipate hardware failure(Fault Prediction) and fixing issues can prevent faults
 
-Hope I have covered the majority of business use cases of AI and will continue to update/revise these use cases, there are some new business areas that can be considered as AI-as-a-service like
+Hope I have covered the majority of business use cases of AI and will continue to update/revise these use cases. There are some new business areas that can be considered as AI-as-a-service like
 * Business intelligence
 * **Data Science, and AI tools as a service:** Analytics and AutoML tools
 * **AI service providers:** Service-based companies that are mainly focused on Analytics and AI business use cases.
